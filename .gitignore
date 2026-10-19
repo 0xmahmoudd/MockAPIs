@@ -46,3 +46,8 @@ seed.sql
 
 test.js
 test.txt
+
+# Environment variables
+.env
+.env.*
+!MockAPIs.Web/.env.production
